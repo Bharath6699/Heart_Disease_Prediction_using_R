@@ -15,16 +15,29 @@ intervention for heart disease.
 
 Dataset: 
 Age: Age of the patient (integer). 
+
 trestbps: Resting blood pressure (integer). 
+
 chol: Serum cholesterol level in mg/dl (integer). 
+
 thalach: Maximum heart rate achieved (integer). 
+
 oldpeak: ST depression induced by exercise relative to rest (numeric). 
+
 Sex: Gender of the patient (binary: 0 = female, 1 = male). 
+
 cp: Chest pain type (integer representing categories). 
+
 fbs: Fasting blood sugar > 120 mg/dl (binary: 0 = false, 1 = true). 
+
 restecg: Resting electrocardiographic results (integer representing categories). 
+
 exang: Exercise induced angina (binary: 0 = no, 1 = yes). 
+
 slope: Slope of the peak exercise ST segment (integer representing categories). 
+
 ca: Number of major vessels colored by fluoroscopy (integer representing categories). 
+
 thal: Thalassemia type (integer representing categories). 
+
 target: Presence of heart disease (binary: 0 = no, 1 = yes). 
